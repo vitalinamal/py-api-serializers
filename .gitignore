@@ -6,5 +6,3 @@
 venv/
 .pytest_cache/
 **__pycache__/
-django_debug_toolbar.egg-info
-django-debug-toolbar
